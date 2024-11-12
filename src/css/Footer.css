@@ -41,4 +41,8 @@
 .email-text a {
   font-size: 15px;
 }
+
+.email-text a:hover  {
+  color: #b18d00;
+}
   
