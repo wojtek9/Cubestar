@@ -1,0 +1,63 @@
+.home-container {
+  text-align: center;
+  padding: 2rem;
+}
+  
+.home-header {
+  background: linear-gradient(to right, #1e1e2f, #3a3a5b);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+  
+.home-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: whitesmoke;
+}
+  
+.home-header p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  color: white;
+}
+  
+.cta-button {
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  color: #1e1e2f;
+  background-color: #ffd700;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+  
+.cta-button:hover {
+  background-color: #ffcd00;
+}
+  
+.home-content {
+  display: grid;
+  gap: 2rem;
+  padding: 0 2rem;
+}
+  
+.section {
+  padding: 1rem;
+  background: #f4f4f9;
+  border-radius: 5px;
+}
+  
+.section h2 {
+  font-size: 1.75rem;
+  color: #1e1e2f;
+}
+  
+.section p {
+  color: #333;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+  

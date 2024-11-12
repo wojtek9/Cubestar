@@ -1,0 +1,44 @@
+.footer {
+  background-color: #1e1e2f;
+  color: white;
+  padding: 0 1rem;
+  text-align: center;
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+  
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+  
+.footer-content p {
+  margin: 0;
+}
+  
+.footer-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.25rem;
+}
+
+.footer-links a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #b18d00;
+}
+
+.footer-links span {
+  color: #555;
+}
+
+.email-text a {
+  font-size: 15px;
+}
+  
