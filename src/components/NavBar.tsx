@@ -16,7 +16,7 @@ const NavBar = () => {
           <Link to={ROUTES.SERVICES}>Services</Link>
         </li>
         <li>
-          <Link to={ROUTES.CONTACT}>Contact Us</Link>
+          <Link to={ROUTES.CONTACT}>Contact</Link>
         </li>
       </ul>
     </nav>
