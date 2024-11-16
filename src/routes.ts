@@ -1,7 +1,7 @@
 export const ROUTES = {
-    HOME: '/',
-    SERVICES: '/services',
-    CONTACT: '/contact',
-    PRIVACY_POLICY: '/privacy',
-    TERMS_OF_SERVICE: '/terms',
+    HOME: '/Cubestar',
+    SERVICES: '/Cubestar/services',
+    CONTACT: '/Cubestar/contact',
+    PRIVACY_POLICY: '/Cubestar/privacy',
+    TERMS_OF_SERVICE: '/Cubestar/terms',
   };
